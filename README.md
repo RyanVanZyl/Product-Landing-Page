@@ -6,6 +6,7 @@ development branch was created & switched to default
 
 # Project Name: trombone product landing page
 
+See trombone instruments and a nice video showcasing it's soothing sounds.
 ## Live Demo
 
 [Live Demo Link]()
